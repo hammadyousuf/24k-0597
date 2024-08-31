@@ -1,6 +1,6 @@
  ![1](https://github.com/user-attachments/assets/ca033ca8-7850-49a5-88d9-f12ab920195e)
 - My name is Muhammad Hammad Yousuf, and I'm currently doing my Bachelor's Degree from Foundation for Advancement of Science & Technology (FAST).
-- I’m good at Time management, Typing, and Sense of humor, which help me in my work.
+- I’m good at Time management, and Typing,  which help me in my work.
 - In my free time, I like to play Cricket, Online Games, and watching  crime thriller films, which keep me refreshed.
 - I’m proud of my noble achievements, which shows my hard work.
 - I aim to launch a startup company as I want to grow in the field of Technology.
