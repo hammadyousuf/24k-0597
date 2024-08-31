@@ -1,4 +1,4 @@
 1.	Ask the user to enter a Positive number
 2.	SET 1 to JANUARY, SET 2 to FEBUARY, SET 3 to MARCH, SET 4 to APRIL, SET 5 to MAY, SET 6 to JUNE, SET 7 to JULY, SET 8 to AUGUST, SET 9 to SEPTEMBER, SET 10 to OCTOBER, SET 11 to NOVEMBER, SET 12 to DECEMBER
-3.	If number is between 1 to 12 Display Months
-4.	Otherwise Display Invalid Number
+3.	Check If number is between 1 to 12 
+4.  Display Month Otherwise Display Invalid Number
