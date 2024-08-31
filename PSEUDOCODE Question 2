@@ -1,0 +1,8 @@
+START
+INPUT Num1
+INPUT Num2
+INPUT Num3
+SET Sum = 0
+SET Sum to Num1 - (-Num2) - (-Num3)
+PRINT Sum
+END
