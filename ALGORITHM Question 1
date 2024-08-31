@@ -1,0 +1,7 @@
+1.	Ask the user to enter Nth number
+2.	Ask the user to enter n number
+3.	Check if n % N == 0
+4.	If No, Print “Nth is not a divisor of n”
+5.	If Yes, then calculate [result = n % N]
+6.	Check if result % 2 == 0
+7.	Print “EVEN NUMBER” otherwise “ODD NUMBER”
