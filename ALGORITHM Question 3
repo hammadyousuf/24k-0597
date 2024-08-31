@@ -1,0 +1,13 @@
+1. Ask the user to enter NUM1
+2. Ask the user to enter the operator
+3. Ask the user to enter NUM2
+4. Set SUM = NUM1 + NUM2
+5. Set DIFFERENCE = NUM1 - NUM2
+6. Set PRODUCT = NUM1 * NUM2
+7. Set DIVISION = NUM1/NUM2
+8. Set REMAINDER = NUM1 % NUM2
+9. If the operator is “+”, Display “SUM”
+10. If the operator is “-“, Display “DIFFERENCE”
+11. If the operator is “*”, Display “PRODUCT”
+12. If the operator is “/”, Check NUM2 should not be equals to 0 then Display "DIVISION" Otherwise Display "MATH ERROR"
+13. If the operator is “%”, Check NUM2 should not be equals to 0 then Display "REMAINDER" Otherwise Display "MATH ERROR"
