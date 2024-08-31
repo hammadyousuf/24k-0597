@@ -8,3 +8,4 @@
 - I believe it's important to have a good work-life balance and make time for both personal and professional interests.
 - I place a high value on communication that is both clear and effective, making concepts and information simple to understand.
 - I like different cultures and have learned about them through travel, learning new languages.
+![1](https://github.com/user-attachments/assets/ca033ca8-7850-49a5-88d9-f12ab920195e)
