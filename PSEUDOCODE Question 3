@@ -1,0 +1,13 @@
+START
+INPUT NUM1
+INPUT operator
+INPUT NUM2
+SET Sum = NUM1 + NUM2
+SET Diff = NUM1 – NUM2
+IF operator == +
+         PRINT “Sum”
+ELSE IF operator == -
+	PRINT “Diff”
+ELSE 
+	PRINT “Invalid Operator”
+END
