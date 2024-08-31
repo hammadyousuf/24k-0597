@@ -1,0 +1,11 @@
+START
+INPUT Number 1
+INPUT Number 2
+INPUT Number 3
+IF Number 1 >= Number 2 AND Number 1 >= Number 3
+	PRINT “Number 1 is Maximum”
+ELSE IF Number 2 >= Number 1 AND Number 2 >= Number 3
+	PRINT “Number 2 is Maximum”
+ELSE 
+	PRINT “Number 3 is Maximum”
+END
